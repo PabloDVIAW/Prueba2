@@ -10,12 +10,6 @@
     
 <p>Parrafo1</p>
 <p>Parrafo2</p>
-<p>Parrafo43</p>
-
-<p>Mi señor Pibardo</p>
-
-
-<h1>Hola!</h1>
 
 </body>
 </html>
